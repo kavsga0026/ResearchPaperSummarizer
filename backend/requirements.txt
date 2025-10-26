@@ -1,6 +1,10 @@
 fastapi
 uvicorn
+python-multipart
+openai
+python-dotenv
 transformers
 torch
-PyMuPDF
-openai
+pdfplumber
+sqlalchemy
+
